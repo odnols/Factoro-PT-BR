@@ -1,14 +1,16 @@
 Versão: 1.0.2 (unreleased)
 Data: ?
     Adições:
-        - Mods traduzidos (+ 3 / Total: 20)
+        - Mods traduzidos (+ 4 / Total: 20)
             Carriage Transport - por SoulCRYSIS,
             Heat Inserter - por Kryzeth,
+            Mini Trains - por Klonan,
             Planet Belt Portal - por agaede22
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.
-            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github. 
+            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github.
+        - Alterado o nome dos arquivos de tradução para incluir o nome dos autores dos mods no início.
     Ajustes:
         - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
         - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
@@ -20,9 +22,8 @@ Data: ?
 Versão: 1.0.1
 Data: 11/11/2025
     Adições:
-        - Mods traduzidos: (+ 2 / Total: 17)
-            Bio Industries - por cackling.fiend,
-            Mini Trains - por Klonan
+        - Mods traduzidos: (+ 1 / Total: 16)
+            Bio Industries - por cackling.fiend
     Alterações:
         - A ordem de listagem dos mods dependentes opcionais foi atualizada.
     Correções:
