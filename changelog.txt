@@ -1,7 +1,7 @@
 Versão: 1.0.2 (unreleased)
 Data: ?
     Adições:
-        - Mods traduzidos (+ 8 / Total: 24)
+        - Mods traduzidos (+ 9 / Total: 25)
             Cannon Turret - por Vortik,
             Carriage Transport - por SoulCRYSIS,
             Early Elevated Rails - por Marcel171297,
@@ -9,14 +9,14 @@ Data: ?
             Mini Trains - por Klonan,
             Mini Trains Lead the Way - por Indzasa,
             Planet Belt Portal - por agaede22,
-            Sushi Splitters - por TeXiCiTy
+            Sushi Splitters - por TeXiCiTy,
+            Tungsten - por cackling.fiend e Brevven
     Correções:
         - O mod Mini Trains foi integrado ao pacote oficialmente nesta versão, apesar de ter sido listado anteriormente, o mesmo não estava presente nos arquivos do pacote, e foi removido do log como "adicionado" na versão 1.0.1
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.
             - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github.
-        - Alterado o nome dos arquivos de tradução para incluir o nome dos autores dos mods no início.
     Ajustes:
         - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
         - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".

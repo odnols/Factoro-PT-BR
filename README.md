@@ -29,7 +29,7 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês.
 
-# 🔣 Mods traduzidos (16 / + 8 a chegar)
+# 🔣 Mods traduzidos ( 16 / +9 a chegar )
 > V1.0.2 - Em andamento para dia `10/12`
 
 - [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) - por Vortik
@@ -40,8 +40,9 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) - por Indzasa
 - [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22
 - [Sushi Splitters](https://mods.factorio.com/mod/sushi-splitters) - por TeXiCiTy
+- [Tungsten](https://mods.factorio.com/mod/bztungsten2) - por cackling.fiend e Brevven
 
-> V1.0.0 & 1.0.1 - 11/11/2025
+> V1.0.0 & 1.0.1 - 11/11/2025 ( `16 Mods traduzidos` )
 
 - [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) - por catweax
 - [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) - por cackling.fiend
