@@ -1,3 +1,12 @@
+Versão: 1.0.3
+Data: ?
+    Adições:
+        - Mods atualizados:
+            - Adicionada traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
+    Ajustes:
+        - Corrigido um erro de typo na tradução do mod Logistics Insights onde a qualidade do item era ignorada, e o nome do item era mostrado novamente na guia de estatísticas da rede logística.
+
+---------------------------------------------------------------------------------------------------
 Versão: 1.0.2
 Data: 15/11/2025
     Depencencies:
@@ -20,7 +29,7 @@ Data: 15/11/2025
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.
-            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github. 
+            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github.
     Ajustes:
         - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
         - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
